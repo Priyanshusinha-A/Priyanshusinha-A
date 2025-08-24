@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycnY5ZnM1aDZ1cHhpMXlqaTZ2eWVlZGdnM292Y2hmczc4NXBpbmw3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2i7jspnRBYgg6v4Oki/source.gif" alt="Header Banner" />
-</p>
+
+![Header Banner](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycnY5ZnM1aDZ1cHhpMXlqaTZ2eWVlZGdnM292Y2hmczc4NXBpbmw3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2i7jspnRBYgg6v4Oki/source.gif)
+
 
 <h1 align="center">Hi 👋, I'm Priyanshu kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer with expertise in Security and Cloud.</h3>
 <img align="right alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qSIVN9fWM_DrD_sOhFlJQA.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+Devlopment;Cyber+security+enthusiast;AWS+Cloud+engineer" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+Devlopment;Cyber+security+enthusiast;AWS+Cloud+engineer" alt="Typing SVG" /></a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusinha-a&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusinha-a" /> </p>

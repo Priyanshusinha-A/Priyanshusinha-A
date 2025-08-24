@@ -1,5 +1,6 @@
-
-![Header Banner](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycnY5ZnM1aDZ1cHhpMXlqaTZ2eWVlZGdnM292Y2hmczc4NXBpbmw3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2i7jspnRBYgg6v4Oki/source.gif)
+<p align="center">
+  <img src=https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Header Banner" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Priyanshu kumar</h1>

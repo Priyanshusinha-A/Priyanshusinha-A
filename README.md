@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Header Banner" />
+  <img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Banner" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Priyanshu kumar</h1>

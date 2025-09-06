@@ -102,6 +102,8 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+### 🃏 Daily Dev Joke  
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=%231a1b27&textColor=%23ffffff" alt="Jokes Card" />
 </p>

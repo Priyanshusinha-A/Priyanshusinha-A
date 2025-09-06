@@ -46,7 +46,10 @@
 ### ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,express,mongodb,mysql,java,python,django,flask,flutter,dart,c,cpp,linux,git,docker,kubernetes,aws,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,java,cpp,c,mongodb,git,docker,aws,postman,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---

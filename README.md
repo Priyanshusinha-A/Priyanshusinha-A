@@ -13,7 +13,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
+<p align="center">
+  <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Coding GIF" width="60%" />
+</p>
+
+---
 
 ### 🌟 About Me  
 

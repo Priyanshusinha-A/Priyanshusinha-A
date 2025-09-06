@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif"/>
+<img align="right" alt="Coding" width="400" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
 
 ### 🌟 About Me  
 

@@ -29,15 +29,14 @@
 
 ✨ Quick Facts about me:  
 
-- 🔭 **Currently Building:** [brandkittie.com](#)  
+- 🔭 **Currently Building:** [pickworldconstruction.com](#)  
 - 🌱 **Learning:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
   ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6633?style=flat&logo=burpsuite&logoColor=white) 
   ![Metasploit](https://img.shields.io/badge/-Metasploit-2E8B57?style=flat&logo=metasploit&logoColor=white) 
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 - 👯 **Collaborating on:** Open-source **Cybersecurity Tools** & **Scalable Web Apps**  
-- 🤝 **Seeking Help With:** Optimizing **Performance** & **Security** in Web Apps  
-- 👨‍💻 **Portfolio:** [My Projects](https://website-1-fa80.onrender.com)  
+- 🤝 **Seeking Help With:** Optimizing **Performance** & **Security** in Web Apps    
 - 💬 **Ask Me About:** Cybersecurity 🔐 | Full-Stack Web Dev ⚡ | AWS ☁️  
 - 📄 **Resume:** [View Here](https://github.com/Priyanshusinha-A/website/blob/main/PRIYANSHU_KUMAR_Resume%20(1)%20(1).pdf)  
 - ⚡ **Fun Fact:** I’m a **Chess Expert ♟️**, strategy both on & off the board 😉  
